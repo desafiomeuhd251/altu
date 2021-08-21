@@ -62,8 +62,15 @@ INPUT.ClasseIn {
 }
 
 h1{
-  color: red;  
+  color: red; 
+  
+   
 }
+
+p2 {
+    color: black;
+}
+
 
 @media (min-width: 1024px) {
     .link-tree {
